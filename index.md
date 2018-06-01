@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+## What is Sentiment Analysis
+
+  Before understanding what sentiment analysis (SA) is, we have to know what **sentiment** is.
+  ```markdown
+  1. Sentiment = feelings
+      - Attitudes
+      - Emotions
+      - Opinions
+  2. Subjective impressions, not facts
+  ```
+
+
+
 
 You can use the [editor on GitHub](https://github.com/hamdi1611/hamdi1611.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
