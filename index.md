@@ -11,6 +11,7 @@ Before understanding what sentiment analysis (SA) is, we have to know what **sen
 3.  Generally, a binary opposition in opinions is assumed
 4.  For example, For/against, like/dislike, good/bad, etc.
 ```
+
 ### Sentiment Analysis?
 Then, let's learn what **Sentiment Analysis** is.
 ```markdown
@@ -44,17 +45,4 @@ According to [www.lexalytics.com](https://www.lexalytics.com/technology/sentimen
 7.  Identifying (in)appropriate content for ad placement
 ```
 
-
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hamdi1611/hamdi1611.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](src)
