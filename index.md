@@ -7,6 +7,7 @@
 Before understanding what sentiment analysis (SA) is, we have to know what **sentiment** is.
 
 1.  Sentiment = feelings
+
         - Attitudes
         - Emotions
         - Opinions
@@ -25,9 +26,9 @@ Then, let's learn what **Sentiment Analysis** is.
     
 According to [www.lexalytics.com](https://www.lexalytics.com/technology/sentiment), Sentiment Analysis is the process of determining whether a piece of writing is positive, negative or neutral. It’s also known as opinion mining, deriving the opinion or attitude of a speaker. A common use case for this technology is to discover how people feel about a particular topic.
 
-## What Can Sentiment Analysis (SA) Do?
+## What Can Sentiment Analysis Do?
 
-### Questions SA might ask
+### Questions Sentiment Analysis might ask
 
 1.  Is this product review positive or negative?
 2.  Is this customer email satisfied or dissatisfied?
@@ -47,6 +48,14 @@ According to [www.lexalytics.com](https://www.lexalytics.com/technology/sentimen
 6.  Bias identification in news sources
 7.  Identifying (in)appropriate content for ad placement
 
+## Applications of Sentiment Analysis
+
+## Applications in Business Intelligence
+
+1. Question: “Why aren't consumers buying our laptop?”
+2. We know the concrete data: price, specs, competition, etc.
+3. We want to know subjective data: “the design is tacky,” “customer service was condescending”
+4. Misperceptions are also important, e.g. “updated drivers aren't available” (even though they are)
 
 
 
