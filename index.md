@@ -62,8 +62,9 @@ According to [www.lexalytics.com](https://www.lexalytics.com/technology/sentimen
 5. It is very difficult to survey customers who didn't buy the company's laptop
 6. Instead, you could use SA to:
 
-        - search the web for opinions and reviews of this and competing laptops. Blogs, Epinions, amazon, tweets, etc.
-        - create condensed versions or a digest of consensus points 
+        -  search the web for opinions and reviews of this and competing laptops.
+           Blogs, Epinions, amazon, tweets, etc.
+        -  create condensed versions or a digest of consensus points 
 
 ### Cross Domain Applications
 
