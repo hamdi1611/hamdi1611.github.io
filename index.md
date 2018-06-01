@@ -1,14 +1,28 @@
-## What is Sentiment Analysis
+## What is Sentiment Analysis?
 
-  Before understanding what sentiment analysis (SA) is, we have to know what **sentiment** is.
-  ```markdown
-  1. Sentiment = feelings
-      - Attitudes
-      - Emotions
-      - Opinions
-  2. Subjective impressions, not facts
-  ```
+### Sentiment?
+Before understanding what sentiment analysis (SA) is, we have to know what **sentiment** is.
+```markdown
+1. Sentiment = feelings
+    - Attitudes
+    - Emotions
+    - Opinions
+2. Subjective impressions, not facts
+3. Generally, a binary opposition in opinions is assumed
+4. For example, For/against, like/dislike, good/bad, etc.
+```
+### Sentiment Analysis?
+Then, let's learn what **Sentiment Analysis** is.
+```markdown
+1. Using NLP, statistics, or machine learning methods to extract, identify, or otherwise characterize the sentiment content of a text unit
+2. Sometimes refered to as opinion mining, although the emphasis in this case is on extraction
 
+According to [www.lexalytics.com](https://www.lexalytics.com/technology/sentiment), Sentiment Analysis is the process of determining whether a piece of writing is positive, negative or neutral. It’s also known as opinion mining, deriving the opinion or attitude of a speaker. A common use case for this technology is to discover how people feel about a particular topic.
+```
+
+## What Can Sentiment Analysis (SA) Do?
+
+### Questions SA might ask
 
 
 
